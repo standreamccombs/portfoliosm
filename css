@@ -1,0 +1,17 @@
+p {
+  font-family: 'Times New Roman';
+  font-size: 18px;
+  font-weight: 25;
+  letter-spacing: -1px;
+}
+
+h1 {
+  font-family: 'Comic sans ms';
+  color: rgb(219, 64, 90);
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
